@@ -8,7 +8,10 @@
 
 <h2>Certification <h2>
 
-- Google cybersecurity 
+- Google Cybersecurity
+- Comptia Security Plus
+- Blue Team Level 1
+- AWS Certified cloud practioner
   
 <h2>📺 Popular YouTube Videos</h2>
 
