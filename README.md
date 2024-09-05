@@ -11,7 +11,7 @@
 - Google Cybersecurity
 - Comptia Security Plus
 - Blue Team Level 1
-- AWS Certified cloud practioner
+- Lets Defend SOC
   
 <h2>📺 Popular YouTube Videos</h2>
 
