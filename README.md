@@ -11,7 +11,7 @@
 - Google Cybersecurity
 - Comptia Security Plus
 - Blue Team Level 1
-- Let's Defend SOC
+- Microsoft security Operation analyst
   
 <h2>📺 Popular YouTube Videos</h2>
 
