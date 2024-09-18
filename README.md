@@ -1,4 +1,4 @@
-<h1>Hi, I'm harry! 
+<h1>Hi, I'm Harry! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
