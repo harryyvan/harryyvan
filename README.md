@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [ home lab](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
+  - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
    - [Hello world](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
 
 
