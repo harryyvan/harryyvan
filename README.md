@@ -12,6 +12,7 @@
 - Comptia Security Plus
 - Blue Team Level 1
 - Microsoft security Operation analyst
+- Tryhackme Certifications
   
 <h2>📺 Popular YouTube Videos</h2>
 
