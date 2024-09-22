@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
-   - [Hello world](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
+
 
 
 <h2>Certification <h2>
