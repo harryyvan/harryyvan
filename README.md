@@ -14,10 +14,6 @@
 - Microsoft security Operation analyst
 - Tryhackme Certifications
   
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active directory home lab  ](whatever your video url is add it here )
-
 
 <h2> 🤳 Connect with me:</h2>
 
