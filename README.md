@@ -10,8 +10,8 @@
 
 - Google Cybersecurity
 - Comptia Security Plus
-- Blue Team Level 1
-- Microsoft security Operation analyst
+- Microsoft Azure Security Engineer Associate
+- Microsoft Cyber analyst certificate
 - Tryhackme Certifications
   
 
