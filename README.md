@@ -13,6 +13,8 @@
 - Microsoft Azure Security Engineer Associate
 - Microsoft Cyber analyst certificate
 - Tryhackme Certifications
+- AWS cloud certified practitioner
+- Google IT Certificate
   
 
 <h2> 🤳 Connect with me:</h2>
