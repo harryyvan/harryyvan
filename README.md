@@ -10,11 +10,9 @@
 
 - Google Cybersecurity
 - Comptia Security Plus
-- Microsoft Azure Security Engineer Associate
-- Microsoft Cyber analyst certificate
-- Tryhackme Certifications
-- AWS cloud certified practitioner
+- Course Careers Certificate
 - Google IT Certificate
+- Comptia A+ (Ongoing)
   
 
 <h2> 🤳 Connect with me:</h2>
