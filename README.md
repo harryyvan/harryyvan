@@ -1,6 +1,6 @@
 <h1>Hi, I'm Harry! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
   - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
 
@@ -13,6 +13,7 @@
 - Course Careers Certificate
 - Google IT Certificate
 - Comptia A+ (Ongoing)
+- Comptia Network Plus
   
 
 <h2> 🤳 Connect with me:</h2>
