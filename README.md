@@ -13,7 +13,7 @@
 - Course Careers Certificate
 - Google IT Certificate
 - Comptia A+ (Ongoing)
-- Comptia Network Plus
+- Comptia Network Plus (Ongoing)
   
 
 <h2> 🤳 Connect with me:</h2>
