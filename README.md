@@ -10,7 +10,7 @@
 
 - Google Cybersecurity
 - Comptia Security Plus
-- Course Careers Certificate
+- Course Careers Certificate (Ongoing)
 - Google IT Certificate
 - Comptia A+ (Ongoing)
 - Comptia Network Plus (Ongoing)
