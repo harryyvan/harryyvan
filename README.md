@@ -1,6 +1,6 @@
 <h1>Hi, I'm Harry! 
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Cloud enginering:</h2>
 
   - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
 
