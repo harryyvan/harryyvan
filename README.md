@@ -14,6 +14,9 @@
 - Google IT Certificate
 - Comptia A+ (Ongoing)
 - Comptia Network Plus (Ongoing)
+- AWS Cloud Certified Practitioner Certificate (Ongoing)
+- 	Microsoft Azure security engineer Associate (Ongoing)
+- 	
   
 
 <h2> 🤳 Connect with me:</h2>
