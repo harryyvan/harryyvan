@@ -1,6 +1,6 @@
 <h1>Hi, I'm Harry! 
 
-<h2>👨‍💻 Cloud Enginering:</h2>
+<h2>👨‍💻 IT Information:</h2>
 
   - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
 
@@ -14,9 +14,8 @@
 - Google IT Certificate
 - Comptia A+ (Ongoing)
 - Comptia Network Plus (Ongoing)
-- AWS Cloud Certified Practitioner Certificate (Ongoing)
-- 	Microsoft Azure security engineer Associate (Ongoing)
-- 	
+  
+   
   
 
 <h2> 🤳 Connect with me:</h2>
