@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Professional:</h2>
 
   - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
-  - [Creating Virtual Machine in Azure](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
+ 
 
 
 
