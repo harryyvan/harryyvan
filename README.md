@@ -4,7 +4,7 @@
 
   - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
   
- - [Azure Vitual Machine]https://github.com/harryyvan/Creating-Vitual-Machine-on-Azure/tree/main
+ - [Azure Vitual Machine](https://github.com/harryyvan/Creating-Vitual-Machine-on-Azure/tree/main/README.md)</h2>
 
 
 
