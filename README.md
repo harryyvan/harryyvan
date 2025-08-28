@@ -13,10 +13,10 @@ My Projects
 
 - Google Cybersecurity
 - Comptia Security Plus
-- Course Careers Certificate (Ongoing)
+- Course Careers Certificate 
 - Google IT Certificate
 - Comptia A+ (Ongoing)
-- Comptia Network Plus (Ongoing)
+- Comptia Network Plus 
   
    
   
