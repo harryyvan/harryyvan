@@ -1,7 +1,9 @@
 <h1>Hi, I'm Harry! 
-<h2>w4er4
-<h2>👨‍💻 IT Professional:</h2>
-My Projects
+<h2>IT Support & Systems Administration focused | Hands-on with Windows, Active Directory, and Networking  
+Building practical IT skills through labs, troubleshooting, and real-world simulations
+
+Windows • Active Directory • Networking • Azure • Linux • Cybersecurity Fundamentals
+<h2>👨‍💻 My Projects:</h2>
 
   - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
   
