@@ -11,7 +11,7 @@ My Projects
 
 <h2>Certification <h2>
 
-- [CompTIA Security+](https://www.credly.com/earner/earned/badge/e094c365-609c-40aa-a204-99a41c58d4e7)
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/e094c365-609c-40aa-a204-99a41c58d4e7)</h2>
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/earner/earned/badge/7dc4027b-8bda-4bb0-bf47-feba643b0ee3)
 - [CompTIA A+](https://www.credly.com/earner/earned/badge/3f7cc93c-af11-448f-8c46-208bc92ac32f)
 - [CompTIA Network+](https://www.credly.com/earner/earned/badge/02421f79-d3a0-475e-8244-0f31606bd907)
