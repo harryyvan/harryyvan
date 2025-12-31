@@ -11,11 +11,12 @@ My Projects
 
 <h2>Certification <h2>
 
-- Comptia Security Plus
-- Google IT Certificate
-- Comptia A+ 
-- Comptia Network Plus 
-  
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [CompTIA A+](https://www.comptia.org/certifications/a)
+- [CompTIA Network+](https://www.comptia.org/certifications/network)
+
+
    
   
 
