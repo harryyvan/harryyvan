@@ -23,4 +23,4 @@ My Projects
 
 <h2> 🤳 Connect with me:
 
-
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/verify/1XVO3USBI4KN)
