@@ -5,7 +5,7 @@ Building practical IT skills through labs, troubleshooting, and real-world simul
 Windows • Active Directory • Networking • Azure • Linux • Cybersecurity Fundamentals
 <h2>👨‍💻 My Projects:</h2>
 
-  - [Linux Security Assessment ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
+  - [Active Directory & Access Control Administration Lab ](https://github.com/harryyvan/project-title-you-work-on-/blob/main/README.md)</h2>
   
  - [Azure Virtual Machine](https://github.com/harryyvan/Creating-Vitual-Machine-on-Azure/tree/main/README.md)</h2>
 
